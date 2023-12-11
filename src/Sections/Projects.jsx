@@ -33,7 +33,7 @@ const Projects = () => {
             <div className="grid grid-cols-2 mx-auto py-6">
                 {/* Image */}
                 <div className="flex justify-center p-10">
-                    <img className="h-full" src="https://i.postimg.cc/6QRzssHB/blooddonationmockup-1.png" alt="" />
+                    <img className="h-full" src="https://i.postimg.cc/L4PnMczx/blooddonationmockup.png" alt="" />
                 </div>
 
                 {/* Text */}
