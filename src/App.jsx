@@ -4,6 +4,7 @@ import AboutMe from './Sections/AboutMe'
 import HeroSection from './Sections/HeroSection'
 import Navbar from './Sections/Navbar'
 import Projects from './Sections/Projects'
+import Technologies from './Sections/Technologies'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Navbar/>
       <HeroSection/>
       <AboutMe/>
+      <Technologies/>
       <Projects/>
     </>
   )
