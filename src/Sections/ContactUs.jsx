@@ -4,10 +4,10 @@ const ContactUs = () => {
  
 
     return (
-        <div className="flex flex-col py-8 items-center border-2 rounded-md border-gray-900">
-            <h2 className="text-4xl text-orange-400 font-secondary font-bold mt-8 uppercase">Contact Me</h2>
+        <div id="contactme" className="flex flex-col py-8 items-center border-2 rounded-md border-gray-900">
+            <h2 className="text-3xl md:text-4xl text-orange-400 font-secondary font-bold mt-8 uppercase">Contact Me</h2>
             <form
-                className="flex flex-col w-[50vw] text-2xl  px-28 py-20 font-primary"
+                className="flex flex-col w-[70vw] md:w-[50vw] text-lg md:text-2xl px-2  md:px-28 py-20 font-primary"
                 action="https://formspree.io/f/xwkdgynp"
                 method="POST"
             >
